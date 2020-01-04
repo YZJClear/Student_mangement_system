@@ -3,6 +3,7 @@
 #include "list.h"
 #include "storge.h"
 
+//基础版本v1.0
 
 //显示菜单
 void display_menu()
